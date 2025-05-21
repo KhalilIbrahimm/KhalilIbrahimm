@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Khalil Ibrahim
 
-A Master's student in Machine Learning at the University of Bergen (UiB) 🎓, where I'm deeply immersed in building robust and insightful intelligent systems. My core interest lies at the intersection of advanced deep learning, explainability (XAI), and data-centric AI – always with an eye toward translating theoretical insights into practical solutions for real-world problems.
+I'm a machine learning student with a deep interest in building AI systems that make decisions, adapt over time, and automate complex tasks. My work focuses on reinforcement learning, AI in finance, and intelligent automation — where models don't just predict, but learn, act, and optimize.
 
-I'm driven by exploring how AI can create meaningful value and am continually seeking new challenges and collaborative opportunities.
+I enjoy turning raw, messy data into insight and action. Whether it's detecting patterns in financial markets, building end-to-end automation pipelines, or designing explainable decision systems, I aim to build AI that works — and works for people.
+
+Let's connect if you're working at the intersection of AI, finance, and automation — or if you share a vision for intelligent, explainable, and data-driven systems.
 
 ---
 
-## 🚀 Tech Stack & Toolkit
+## 🚀 Tech Stack
 
-Here are the technologies I primarily work with:
-
-### 💻 Languages
+### 🧠 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SPARQL](https://img.shields.io/badge/-SPARQL-FF9900?style=for-the-badge&logo=w3c&logoColor=white)
 
-### 🧠 ML Frameworks & Libraries
+### 📦 Libraries & Frameworks
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/-PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -30,51 +30,56 @@ Here are the technologies I primarily work with:
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![UV](https://img.shields.io/badge/-UV-1e1e1e?style=for-the-badge&logo=python&logoColor=white)
 
----
 
-## 🎓 Education
-
-- **Master's in Machine Learning**, *University of Bergen (UiB)* (2024–2026)
-- **Bachelor's in Artificial Intelligence**, *University of Bergen (UiB)* (2021–2024)
 
 ---
 
-## 💡 Core Competencies
+## 🧑‍🎓 Education
 
-### AI Models & Techniques
-- Transformers (GPT, Self-Attention), CNN, RNN, LSTM, GANs, MLP
+- 🎓 **Master in Machine Learning**, *University of Bergen* (2024–2026)  
+- 🎓 **Bachelor's in Artificial Intelligence**, *University of Bergen* (2021–2024)  
+
+---
+
+## 🛠️ Technical Skills
+
+### 🧠 AI Models and Techniques
+- Transformers (GPT, Self-Attention), CNN, RNN
 - Logistic & Linear Regression, Decision Trees, Random Forest, XGBoost
 - Clustering, SVM, KNN
+- Feedforward and Convolutional Neural Networks, LSTM, GANs, MLP
 - Word Embeddings (Word2Vec), Time Series Models
 - Supervised Learning, Unsupervised Learning, and advanced deep learning methods
-- Focus on Explainable AI (XAI) and Data-Centric AI
 
-### Data Handling & Analysis
+### 🗃️ Data Handling & Analysis
 - **Libraries**: Pandas, NumPy, SciPy
 - **Visualization**: Matplotlib, Seaborn, Plotly
 
-### Theoretical Foundation & Specializations
-- Data Structures, Algorithms, Statistics
-- Linear Algebra, Logic, Knowledge Graphs
-- Machine Learning, Deep Learning, Reinforcement Learning, AI Ethics
+### 🔬 Machine Learning Frameworks
+PyTorch, PyTorch Lightning, TensorFlow, Scikit-learn, Qiskit (IBM)
+
+---
+
+## 🎓 Relevant University Courses
+
+- Data Structures, Algorithms, Statistics  
+- Linear Algebra, Logic, Knowledge Graphs  
+- Machine Learning, Deep Learning, Reinforcement Learning, AI Ethics 
 - Quantum Computing
-- Project Management & Teamwork
+- Project Management, Team Leadership  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalilIbrahimm&show_icons=true&theme=radical)](https://github.com/KhalilIbrahimm)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilIbrahimm&layout=compact&theme=radical)](https://github.com/KhalilIbrahimm)
-
-*(Click on the images to see more on GitHub)*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalilIbrahimm&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilIbrahimm&layout=compact)
 
 ---
 
-## 🔗 Connect With Me
-
-Feel free to reach out for technical discussions, project ideas, or collaborations:
+## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/khalil-ibrahim-5073b1264)
-- 📧 khalil.ibrahim@student.uib.no
+- 📧 khalil.ibrahim@student.uib.no 
+
 

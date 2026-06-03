@@ -1,10 +1,26 @@
 # 👋 Hi, I'm Khalil Ibrahim
 
-I'm a machine learning student with a deep interest in building AI systems that make decisions, adapt over time, and automate complex tasks. My work focuses on reinforcement learning, AI in finance, and intelligent automation — where models don't just predict, but learn, act, and optimize.
+I'm the CEO and founder of [AIEngineers](https://aiengineer.no), and recently completed my master's degree in Machine Learning at the University of Bergen.
 
-I enjoy turning raw, messy data into insight and action. Whether it's detecting patterns in financial markets, building end-to-end automation pipelines, or designing explainable decision systems, I aim to build AI that works — and works for people.
+I build production-ready AI systems for Norwegian businesses — including prediction models, RAG, semantic search, multi-agent workflows, local LLM infrastructure, and intelligent automation.
 
-Let's connect if you're working at the intersection of AI, finance, and automation — or if you share a vision for intelligent, explainable, and data-driven systems.
+My work sits at the intersection of machine learning, AI infrastructure, finance, energy, and operational decision systems.
+
+I have worked on applied ML in the Norwegian energy market, including consumption forecasting for SFE and imbalance prediction as part of my master's thesis.
+
+I'm focused on AI that goes beyond demos: systems that connect to real data, fit into existing workflows, support better decisions, and make it all the way to production.
+
+**Areas I work with:**
+
+- Machine learning and prediction systems
+- RAG and semantic vector search
+- Multi-agent AI workflows
+- Local LLM infrastructure
+- AI automation and integrations
+- Energy and financial market data
+- Production-ready AI architecture
+
+Learn more: [aiengineer.no](https://aiengineer.no)
 
 ---
 

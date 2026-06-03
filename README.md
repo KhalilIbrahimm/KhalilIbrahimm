@@ -153,16 +153,6 @@ Typical projects include:
 * Local LLM infrastructure
 * AI integrations with existing business systems
 
----
-
-## GitHub Stats
-
-![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalilIbrahimm\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilIbrahimm\&layout=compact\&theme=default)
-
----
-
 ## Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/khalil-ibrahim-5073b1264)

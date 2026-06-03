@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khalil Ibrahim
 
-I'm the CEO and founder of [AIEngineers]([aiengineer.no](https://aiengineers.no)), and recently completed my master's degree in Machine Learning at the University of Bergen.
+I'm the CEO and founder of [AIEngineers](https://aiengineers.no), and I recently completed my master's degree in Machine Learning at the University of Bergen.
 
 I build production-ready AI systems for Norwegian businesses — including prediction models, multi-agent workflows, local LLM infrastructure and intelligent automation.
 

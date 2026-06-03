@@ -2,7 +2,7 @@
 
 I'm the CEO and founder of [AIEngineers](https://aiengineer.no), and recently completed my master's degree in Machine Learning at the University of Bergen.
 
-I build production-ready AI systems for Norwegian businesses — including prediction models, RAG, semantic search, multi-agent workflows, local LLM infrastructure, and intelligent automation.
+I build production-ready AI systems for Norwegian businesses — including prediction models, multi-agent workflows, local LLM infrastructure and intelligent automation.
 
 My work sits at the intersection of machine learning, AI infrastructure, finance, energy, and operational decision systems.
 
